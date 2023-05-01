@@ -3,6 +3,3 @@ list:
     url: ""
   - title: About
     url: about
-  - title: Feed
-    url: feed.xml
-    target: "_blank"
