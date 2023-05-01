@@ -1,0 +1,40 @@
+title:  luvu AKA wally
+markdown: kramdown
+url: ""
+baseurl: "/luvu"
+
+# for atom feed
+author:
+  name: lazydukk
+  email: bytex07@proton.me
+
+plugins:
+  - jekyll-paginate
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+paginate_path: "/page:num/"
+
+paginate: 5
+
+collections_dir: ac
+collections:
+  posts:
+    output: true
+  projects:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "post"
+  - scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      permalink: /posts/:categories/:year/:month/:day/:title/
+
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
