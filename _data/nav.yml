@@ -3,3 +3,5 @@ list:
     url: ""
   - title: About
     url: about
+ - title:
+    url: "https://github.com/lazydukk/luvu"
