@@ -13,6 +13,6 @@
     - Vercel (hosting)
     - PlanetScale (DB)
 
-#### currently on hold --> ==EXAMS (*sucks*)==
+#### currently on hold --> <mark>exams (*sucks*)</mark>
 
 `may use django w/ react (nextjs)`
