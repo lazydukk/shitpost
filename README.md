@@ -4,7 +4,7 @@
 
 ## project by [lazydukk](https://github.com/lazydukk/)
 
-### technolgies used
+### technologies used
     - NextJS
     - Tailwindcss
     - Prisma
@@ -12,4 +12,4 @@
     - Vercel (hosting)
     - PlanetScale (DB)
 
-#### currently on hold (cuz of exams)
+#### currently on hold (<span color="red">cuz of exams</span>)
