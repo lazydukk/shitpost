@@ -1,7 +1,15 @@
 # shitpost
 
-## a interet wall to rant as much as you want 😉
+## an internet wall to rant as much as you want 😉
 
-## a project by lazydukk @2023
+## project by [lazydukk](https://github.com/lazydukk/)
+
+### technolgies used
+    - NextJS
+    - Tailwindcss
+    - Prisma
+    - Clerk (authentication)
+    - Vercel (hosting)
+    - PlanetScale (DB)
 
 #### currently on hold (cuz of exams)
