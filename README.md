@@ -4,6 +4,7 @@
 
 ## project by [lazydukk](https://github.com/lazydukk/)
 
+### language used: TS
 ### technologies used
     - NextJS
     - Tailwindcss
@@ -12,4 +13,6 @@
     - Vercel (hosting)
     - PlanetScale (DB)
 
-#### currently on hold (<span color="red">cuz of exams</span>)
+#### currently on hold --> *exams* (sucks)
+
+`may use a django w/ react (nextjs)`
