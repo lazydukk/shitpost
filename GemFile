@@ -1,0 +1,1 @@
+gem "jekyll-theme-dark-minimal"
