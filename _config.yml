@@ -1,11 +1,11 @@
-title:  luvu
+title: lazydukk/luvu
 markdown: kramdown
 url: ""
-baseurl: "/luvu"
+baseurl: "/jekyll-theme-dark-reader"
 
 # for atom feed
 author:
-  name: lazydukk
+  name: bdas
   email: bytex07@proton.me
 
 plugins:
@@ -19,7 +19,7 @@ paginate_path: "/page:num/"
 
 paginate: 5
 
-collections_dir: ac
+collections_dir: all_collections
 collections:
   posts:
     output: true
