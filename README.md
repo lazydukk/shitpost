@@ -15,4 +15,4 @@
 
 #### currently on hold --> *exams* (sucks)
 
-`may use a django w/ react (nextjs)`
+`may use django w/ react (nextjs)`
